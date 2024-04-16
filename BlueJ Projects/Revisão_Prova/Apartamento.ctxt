@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Apartamento
+comment1.params=
+comment1.target=Apartamento()
+comment2.params=numero\ metrosQuadrados\ proprietario\ nroQuarto
+comment2.target=Apartamento(int,\ int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ valorVenal()
+comment4.params=nroQuarto
+comment4.target=void\ setNroQuarto(int)
+comment5.params=
+comment5.target=int\ getNroQuarto()
+numComments=6

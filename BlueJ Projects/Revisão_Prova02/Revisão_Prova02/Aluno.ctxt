@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=matricula\ turma
+comment1.target=Aluno(int,\ Turma)
+comment10.params=
+comment10.target=Turma\ getTurma()
+comment11.params=isPresidente
+comment11.target=void\ setIsPresidente(boolean)
+comment12.params=
+comment12.target=boolean\ getIsPresidente()
+comment2.params=matricula\ nome\ turma
+comment2.target=Aluno(int,\ java.lang.String,\ Turma)
+comment3.params=matricula
+comment3.target=void\ votarRepresentante(int)
+comment4.params=
+comment4.target=int\ getMatricula()
+comment5.params=
+comment5.target=void\ receiveVoto()
+comment6.params=
+comment6.target=int\ getVotos()
+comment7.params=nome
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getNome()
+comment9.params=turma
+comment9.target=void\ setTurma(Turma)
+numComments=13

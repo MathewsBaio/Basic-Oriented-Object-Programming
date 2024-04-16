@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Imovel
+comment1.params=
+comment1.target=Imovel()
+comment10.params=
+comment10.target=java.lang.String\ getProprietario()
+comment11.params=condominio
+comment11.target=void\ setCondominio(Condominio)
+comment12.params=
+comment12.target=Condominio\ getCondominio()
+comment2.params=numero\ metrosQuadrados\ proprietario
+comment2.target=Imovel(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=double\ valorVenal()
+comment4.params=
+comment4.target=double\ valorVenda()
+comment5.params=numero
+comment5.target=void\ setNumero(int)
+comment6.params=
+comment6.target=int\ getNumero()
+comment7.params=metrosQuadrados
+comment7.target=void\ setMetrosQuadrados(int)
+comment8.params=
+comment8.target=int\ getMetrosQuadrados()
+comment9.params=proprietario
+comment9.target=void\ setProprietario(java.lang.String)
+numComments=13
