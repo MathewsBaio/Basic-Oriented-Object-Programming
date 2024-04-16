@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=
+comment1.target=Pessoa()
+comment10.params=
+comment10.target=java.lang.String\ getDataNascimento()
+comment2.params=nome\ dataNascimento\ email
+comment2.target=Pessoa(java.lang.String,\ Data,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ eAdulto()
+comment4.params=
+comment4.target=int\ calcularIdade()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+comment7.params=email
+comment7.target=void\ setEmail(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getEmail()
+comment9.params=dia\ mes\ ano
+comment9.target=void\ setDataNascimento(int,\ int,\ int)
+numComments=11

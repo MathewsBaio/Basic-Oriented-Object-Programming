@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=
+comment1.target=Retangulo()
+comment2.params=fcomprimento\ flargura
+comment2.target=Retangulo(double,\ double)
+comment3.params=comprimento\ largura
+comment3.target=double\ calcularArea(double,\ double)
+comment4.params=comprimento\ largura
+comment4.target=double\ calcularPerimetro(double,\ double)
+comment5.params=nComprimento
+comment5.target=void\ setComprimento(double)
+comment6.params=
+comment6.target=double\ getComprimento()
+comment7.params=nLargura
+comment7.target=void\ setLargura(double)
+comment8.params=
+comment8.target=double\ getLargura()
+numComments=9

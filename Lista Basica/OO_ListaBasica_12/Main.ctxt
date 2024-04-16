@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Pessoa\ cadastrarPessoa()
+comment3.params=pessoa
+comment3.target=void\ cadastrarData(Pessoa)
+numComments=4

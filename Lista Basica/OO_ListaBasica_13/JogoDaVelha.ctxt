@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JogoDaVelha
+comment1.params=
+comment1.target=JogoDaVelha()
+comment2.params=
+comment2.target=boolean\ isBoardFull()
+comment3.params=c\ r
+comment3.target=boolean\ isHouseFree(int,\ int)
+comment4.params=play\ c\ r
+comment4.target=void\ makePlay(java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=boolean\ someoneWins()
+comment6.params=c\ r
+comment6.target=java.lang.String\ getHouse(int,\ int)
+comment7.params=player
+comment7.target=void\ addPlayer(Player)
+numComments=8

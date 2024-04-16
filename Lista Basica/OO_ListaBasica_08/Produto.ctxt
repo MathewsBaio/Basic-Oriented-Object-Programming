@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=
+comment1.target=Produto()
+comment10.params=
+comment10.target=double\ getValor()
+comment11.params=qtdEstoque
+comment11.target=void\ setQtdEstoque(int)
+comment12.params=
+comment12.target=int\ getQtdEstoque()
+comment2.params=nome\ codigoBarras\ valor\ qtdEstoque
+comment2.target=Produto(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=boolean\ estaDisponivel()
+comment4.params=
+comment4.target=void\ infoProduto()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+comment7.params=codigoBarras
+comment7.target=void\ setCodigoBarras(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getCodigoBarras()
+comment9.params=valor
+comment9.target=void\ setValor(double)
+numComments=13

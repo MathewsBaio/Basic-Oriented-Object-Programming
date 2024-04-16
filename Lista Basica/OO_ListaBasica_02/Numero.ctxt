@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Numero
+comment1.params=
+comment1.target=Numero()
+comment2.params=fvalor
+comment2.target=Numero(double)
+comment3.params=valor
+comment3.target=boolean\ verificaImpar(double)
+comment4.params=novoValor
+comment4.target=void\ setValor(double)
+comment5.params=
+comment5.target=double\ getValor()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PlanoCartesiano
+comment1.params=
+comment1.target=PlanoCartesiano()
+comment2.params=fpontoUm\ fpontoDois
+comment2.target=PlanoCartesiano(double,\ double)
+comment3.params=pontoUm\ pontoDois
+comment3.target=double\ distanciaPontos(double,\ double)
+comment4.params=novoPonto
+comment4.target=void\ setPontoUm(double)
+comment5.params=
+comment5.target=double\ getPontoUm()
+comment6.params=novoPonto
+comment6.target=void\ setPontoDois(double)
+comment7.params=
+comment7.target=double\ getPontoDois()
+numComments=8
